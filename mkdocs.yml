@@ -23,6 +23,20 @@ theme:
       primary: blue
       accent: deep orange
 
+nav:
+  - Home: index.md
+  - Detections:
+    - Overview: detection_engineering/de_overview.md
+  - Incident Response:
+    - Overview: incident_response/ir_overview.md
+  - Threat Intelligence:
+    - Overview: threat_intelligence/ti_overview.md
+  - Automation:
+    - Overview: automation/automation_overview.md
+  - Vulnerability Management:
+    - Overview: vulnerability_management/vm_overview.md
+  - About: about.md
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:

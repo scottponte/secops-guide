@@ -1,4 +1,4 @@
-# SecOps Guide
+# Detection Engineering Overview
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
