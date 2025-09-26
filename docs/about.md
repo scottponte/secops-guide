@@ -7,7 +7,7 @@
 <table style="border:none;">
 	<tr>
 		<td width="120">
-			<img src="/assets/images/avatars/surfing.png" alt="Avatar" width="100" />
+			<img src="assets/images/avatars/surfing.png" alt="Avatar" width="100" />
 		</td>
 		<td>
 			<strong>Name:</strong> Scott Ponte<br>
