@@ -28,6 +28,7 @@ nav:
   - Home: index.md
   - Detections:
     - Overview: detection_engineering/de_overview.md
+    - Metrics: detection_engineering/de_metrics.md
   - Incident Response:
     - Overview: incident_response/ir_overview.md
   - Threat Intelligence:
